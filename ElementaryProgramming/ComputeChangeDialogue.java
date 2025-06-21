@@ -1,4 +1,7 @@
-import java.util.Scanner;
+/**
+ * (Using the GUI input) Rewrite Listing 2.10, ComputeChange.java, using the GUI
+ * input and output.
+ */
 
 import javax.swing.JOptionPane;
 
